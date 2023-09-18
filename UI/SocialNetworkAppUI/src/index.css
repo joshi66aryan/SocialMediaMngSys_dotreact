@@ -1,0 +1,9 @@
+
+@import 'mdb-react-ui-kit/dist/css/mdb.min.css';    /* for connecting with mdb-react-ui-kit */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline:none;
+  }
